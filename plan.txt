@@ -1,0 +1,25 @@
+Create Npm project
+
+Create html,css,js files
+
+install dependencies , express , nodemon(dev,dep) --> dev dependency
+
+Create express server (server.js)
+
+do front-end part
+
+install socket.io , set-up socket.io in server.js and client in client.js
+
+client send message logic in client.js
+
+Receive message on server and broadcast to all clients
+
+Receive message on client and display it. ScrollToBottom etc....
+
+
+
+#commands
+npm init -y
+npm install nodemon -D
+npm install express
+npm install socket.io
